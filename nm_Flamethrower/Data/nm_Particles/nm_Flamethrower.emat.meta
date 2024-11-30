@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{680A3B0771189F6F}nm_Crafting_Part_Weapons/Data/nm_Particles/nm_Flamethrower.emat"
+ Author "desktop-mfb1vt9"
+ ChangeDate -548770063
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass LINUX : PC {
+  }
+ }
+}

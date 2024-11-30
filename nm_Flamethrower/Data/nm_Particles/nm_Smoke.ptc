@@ -1,0 +1,71 @@
+EffectDef {
+ MinFPS 30
+ Emitors {
+  EmitorDef smoke_fast_left {
+   ShapeType Cone
+   ConeAngle 360 0 50
+   MaxNum 60
+   BirthRate 15
+   Offset 0 0 0
+   Angles -90 90 -180
+   LocalTransform 0
+   Material "{CF8A36CE7D239262}graphics/particles/materials/smoke/steam_random_m7a2_01.emat"
+   SizeMultiplier 1
+   SizeRND 1
+   RandomRotDir 1
+   RotMultiplier 180
+   StretchMultiplier 1
+   StreakFullUV 0
+   VelAngle 0
+   RandomAngle 1
+   Sort 0
+   Velocity 10
+   VelocityRND 10
+   VelAffect 0
+   AirResistance 3
+   AirResistanceRND 6
+   GravityMultiply 0.5
+   GravityMultiplyRND -1
+   Wind 0
+   LifetimeByAnim 1
+   RandomFrame 1
+   LifeTime 2
+   LifeTimeRND 2
+   Color {
+    0 0.7288 0.6893 0.4419 1 1 1 1
+   }
+   Alpha {
+    0 1 0.05 0.5 1 0
+   }
+   RotationSpeed {
+    0 0.18354 1 0.1962
+   }
+   Size {
+    0 0 0.025 0.75 1 1
+   }
+   EffectTime 1
+   Repeat 0
+   ColorMast {
+    0 1 1 1 1 1 1 1
+   }
+   AlphaMast {
+    0 1 1 1
+   }
+   RotationSpeedMast {
+    0 1 1 1
+   }
+   SizeMast {
+    0 0.37342 0.00372 0.37975 1 1
+   }
+   BRateMast {
+    0 0.31013 0.00446 0.31013 1 1
+   }
+   AirResistanceMast {
+    0 1 1 0.99367
+   }
+   VelocityMast {
+    0 0 0.00372 0 1 1
+   }
+  }
+ }
+}

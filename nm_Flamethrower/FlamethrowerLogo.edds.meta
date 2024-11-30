@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{F823D4276688B356}nm_Flamethrower/FlamethrowerLogo.edds"
+ Author "desktop-mfb1vt9"
+ ChangeDate 1424633596
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "FlamethrowerLogo.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}

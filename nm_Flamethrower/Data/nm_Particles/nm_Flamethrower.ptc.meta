@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{6E25270541BE3E2E}nm_Crafting_Part_Weapons/Data/nm_Particles/nm_Flamethrower.ptc"
+ Author "desktop-mfb1vt9"
+ ChangeDate -280334607
+ Configurations {
+  PTCResourceClass PC {
+  }
+  PTCResourceClass XBOX_ONE : PC {
+  }
+  PTCResourceClass PS4 : PC {
+  }
+  PTCResourceClass LINUX : PC {
+  }
+ }
+}

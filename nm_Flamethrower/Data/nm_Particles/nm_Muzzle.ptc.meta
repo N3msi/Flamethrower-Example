@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{9E6F180B1E006C33}nm_Crafting_Part_Weapons/Data/nm_Particles/nm_Muzzle.ptc"
+ Author "desktop-mfb1vt9"
+ ChangeDate -734351628
+ Configurations {
+  PTCResourceClass PC {
+  }
+  PTCResourceClass XBOX_ONE : PC {
+  }
+  PTCResourceClass PS4 : PC {
+  }
+  PTCResourceClass LINUX : PC {
+  }
+ }
+}

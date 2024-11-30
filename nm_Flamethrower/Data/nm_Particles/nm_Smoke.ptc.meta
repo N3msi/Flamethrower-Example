@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{8E2DF39D26F5D21D}nm_Crafting_Part_Weapons/Data/nm_Particles/nm_Smoke.ptc"
+ Author "desktop-mfb1vt9"
+ ChangeDate 1927098099
+ Configurations {
+  PTCResourceClass PC {
+  }
+  PTCResourceClass XBOX_ONE : PC {
+  }
+  PTCResourceClass PS4 : PC {
+  }
+  PTCResourceClass LINUX : PC {
+  }
+ }
+}

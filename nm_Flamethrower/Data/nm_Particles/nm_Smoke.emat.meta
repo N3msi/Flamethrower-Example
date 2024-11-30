@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{805BB54A8C69F253}nm_Crafting_Part_Weapons/Data/nm_Particles/nm_Smoke.emat"
+ Author "desktop-mfb1vt9"
+ ChangeDate 350564083
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass LINUX : PC {
+  }
+ }
+}
